@@ -26,8 +26,8 @@ module.exports = {
     "mode": 'light',
     "subSidebar": 'auto',
     "valineConfig": {
-      "appId": 'h6i7vXvVEK37fFFwb1DtMJ6W-gzGzoHsz',
-      "appKey": 'cYI3hypnGAI00CPuzhNfeY8Q',
+      "appId": 'aCSipIDPBNQTreNNNr4bT5R4-gzGzoHsz',
+      "appKey": 'zuQELzuRINaCxHgIozNrnwKO',
     },
     "nav": [
       {
@@ -40,6 +40,7 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
+      { "text": '留言板', "link": '/blogs/views/messageBoard.html', "icon": 'reco-suggestion' },
       {
         "text": "Contact",
         "icon": "reco-message",
